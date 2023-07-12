@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 sword and spear
 wall of shields
 standing strong
@@ -8,3 +9,9 @@ Form the lines
 Shield by shield
 Side by side
 We're marching into destiny
+=======
+March as one
+Don't look back
+Oden's sons
+Attack!
+>>>>>>> feature
